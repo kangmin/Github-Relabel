@@ -1,7 +1,9 @@
 <ul>
-<li>About Us</li>
+<h2>About Us</h2>
 <li>Contact infomation</li>
-<li>About the Company</li>
+<li>About HP</li>
 <li>Our Location</li>
-<li>Dirction</li>
+<li>Dirctions</li>
+<div>From the North</div>
+<div>From the South</div>
 </ul>
