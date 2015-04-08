@@ -13,4 +13,4 @@
 <div>From the South</div>
 </ul>
 The vcl_recv subroutine handles the incoming request from the client. This is where you set basic config options and do any request setup and tweaking before varnish looks up the item or passes.
-<footer>Home | About HP</footer>
+<footer>Home | Basic Info</footer>
